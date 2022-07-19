@@ -17,6 +17,6 @@ A board of elections employee wanted to audit an election they had recently. We 
 - The candidates running in this election were: Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane.
 - Each candidates receieved 23.0% (85,213), 73.8% (272, 892), and 3.1% (11,606) of votes respectively.
 
-The winner was: #### Diana DeGette who receieved 73.8% (272, 892) of votes.
+The winner was: Diana DeGette who receieved 73.8% (272, 892) of votes.
 ## Challenge Overview
 ## Challenge Summary
